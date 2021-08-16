@@ -1,0 +1,33 @@
+.header{
+    background-color: rgb(147, 219, 31);
+    font-size: 30px;
+    padding: 20px;
+    color: rgb(52, 24, 163);
+    
+
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    align-content:center ;
+}
+.item{
+    background-color: burlywood;
+    margin: 50px;
+    box-shadow: 5px 5px 5px;
+}
+
+.subheader{
+    display: flex;
+    justify-content: left;
+    
+}
+a{
+    text-decoration: none;
+}
